@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hellowolrd on old buddies website</title>
-    <link>http://localhost:1313/tags/hellowolrd/</link>
+    <link>https://iii-cutting-edge-tech-lab.github.io/tags/hellowolrd/</link>
     <description>Recent content in hellowolrd on old buddies website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/hellowolrd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0800</lastBuildDate><atom:link href="https://iii-cutting-edge-tech-lab.github.io/tags/hellowolrd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Wolrd Page</title>
-      <link>http://localhost:1313/post/example/</link>
+      <link>https://iii-cutting-edge-tech-lab.github.io/post/example/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/example/</guid>
+      <guid>https://iii-cutting-edge-tech-lab.github.io/post/example/</guid>
       <description>Hello Wolrd </description>
     </item>
     
