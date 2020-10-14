@@ -6,22 +6,40 @@
     <description>Recent content in Categories on old buddies website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0800</lastBuildDate><atom:link href="https://iii-cutting-edge-tech-lab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Oct 2020 20:00:00 +0800</lastBuildDate><atom:link href="https://iii-cutting-edge-tech-lab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>docs</title>
-      <link>https://iii-cutting-edge-tech-lab.github.io/categories/docs/</link>
-      <pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
+      <title>2020</title>
+      <link>https://iii-cutting-edge-tech-lab.github.io/categories/2020/</link>
+      <pubDate>Wed, 14 Oct 2020 20:00:00 +0800</pubDate>
       
-      <guid>https://iii-cutting-edge-tech-lab.github.io/categories/docs/</guid>
+      <guid>https://iii-cutting-edge-tech-lab.github.io/categories/2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
       <link>https://iii-cutting-edge-tech-lab.github.io/categories/index/</link>
-      <pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 14 Oct 2020 20:00:00 +0800</pubDate>
       
       <guid>https://iii-cutting-edge-tech-lab.github.io/categories/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>old-buddies-day</title>
+      <link>https://iii-cutting-edge-tech-lab.github.io/categories/old-buddies-day/</link>
+      <pubDate>Wed, 14 Oct 2020 20:00:00 +0800</pubDate>
+      
+      <guid>https://iii-cutting-edge-tech-lab.github.io/categories/old-buddies-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docs</title>
+      <link>https://iii-cutting-edge-tech-lab.github.io/categories/docs/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://iii-cutting-edge-tech-lab.github.io/categories/docs/</guid>
       <description></description>
     </item>
     
