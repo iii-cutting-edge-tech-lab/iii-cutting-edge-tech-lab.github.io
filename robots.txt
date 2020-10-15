@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://iii-cutting-edge-tech-lab.github.io/sitemap.xml

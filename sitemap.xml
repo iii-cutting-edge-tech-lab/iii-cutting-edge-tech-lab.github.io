@@ -1,116 +1,30 @@
-<?xml-stylesheet type="text/xsl" href="https://iii-cutting-edge-tech-lab.github.io/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/about/</loc>
+    <loc>http://example.com/about/</loc>
     <lastmod>2020-10-13T00:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/tags/2020/</loc>
+    <loc>http://example.com/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/2020-old-buddies-day/</loc>
     <lastmod>2020-10-14T20:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/categories/2020/</loc>
+    <loc>http://example.com/post/</loc>
     <lastmod>2020-10-14T20:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/post/2020-old-buddies-day/</loc>
-    <lastmod>2020-10-14T20:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/categories/</loc>
-    <lastmod>2020-10-14T20:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/categories/index/</loc>
-    <lastmod>2020-10-14T20:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/</loc>
-    <lastmod>2020-10-14T20:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/tags/old-buddies-day/</loc>
-    <lastmod>2020-10-14T20:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/categories/old-buddies-day/</loc>
-    <lastmod>2020-10-14T20:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/post/</loc>
-    <lastmod>2020-10-14T20:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/tags/</loc>
-    <lastmod>2020-10-14T20:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/categories/docs/</loc>
+    <loc>http://example.com/post/example/</loc>
     <lastmod>2020-10-13T00:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/tags/example/</loc>
-    <lastmod>2020-10-13T00:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/post/example/</loc>
-    <lastmod>2020-10-13T00:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/tags/hellowolrd/</loc>
-    <lastmod>2020-10-13T00:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://iii-cutting-edge-tech-lab.github.io/categories/shortcodes/</loc>
-    <lastmod>2020-10-13T00:00:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
 </urlset>
